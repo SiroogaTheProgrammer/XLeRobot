@@ -1,0 +1,11 @@
+# Perception
+numpy
+opencv-contrib-python  # YuNet face detection + image handling
+pyorbbecsdk2           # Orbbec Gemini 330 depth camera (imports as `pyorbbecsdk`)
+rplidar-roboticia      # RPLIDAR A1M8 (imports as `rplidar`)
+
+# Arms (SO-101, Feetech STS3215 servos)
+feetech-servo-sdk      # direct servo backend (imports as `scservo_sdk`)
+# Optional, only for the calibrated IK serving path. Installs
+# opencv-python-headless (breaks the GUI feeds) - use a separate venv:
+# lerobot[feetech]

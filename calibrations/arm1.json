@@ -1,0 +1,26 @@
+{
+  "shoulder_pan": {
+    "min_deg": -86.484375,
+    "max_deg": 123.310546875
+  },
+  "shoulder_lift": {
+    "min_deg": -100.107421875,
+    "max_deg": 108.45703125
+  },
+  "elbow_flex": {
+    "min_deg": -129.638671875,
+    "max_deg": 85.60546875
+  },
+  "wrist_flex": {
+    "min_deg": -108.544921875,
+    "max_deg": 100.8984375
+  },
+  "wrist_roll": {
+    "min_deg": -179.6484375,
+    "max_deg": 179.82421875
+  },
+  "gripper": {
+    "min_deg": -45.615234375,
+    "max_deg": 82.880859375
+  }
+}

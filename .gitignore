@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Runtime artifacts
+bottle_state.json
+face_detection_yunet_2023mar.onnx
+Log/
+# Note: calibrations/, arm_poses.json, can_state.json and handout_gesture.json are NOT
+# ignored on purpose - commit them if you want to keep your arm setup.

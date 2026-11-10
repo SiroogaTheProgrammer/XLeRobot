@@ -1,0 +1,90 @@
+{
+  "rows": 2,
+  "cols": 4,
+  "arm1": {
+    "start": {
+      "shoulder_pan": -84.29,
+      "shoulder_lift": -82.44,
+      "elbow_flex": 69.87,
+      "wrist_flex": 70.58,
+      "wrist_roll": 6.94,
+      "gripper": -3.6
+    },
+    "corners": {
+      "top_first": {
+        "shoulder_pan": -37.71,
+        "shoulder_lift": 39.99,
+        "elbow_flex": 13.8,
+        "wrist_flex": -62.67,
+        "wrist_roll": -0.53,
+        "gripper": 72.86
+      },
+      "top_last": {
+        "shoulder_pan": -37.71,
+        "shoulder_lift": 39.99,
+        "elbow_flex": 13.8,
+        "wrist_flex": -62.67,
+        "wrist_roll": -0.53,
+        "gripper": 72.86
+      },
+      "bottom_first": {
+        "shoulder_pan": -37.71,
+        "shoulder_lift": 39.99,
+        "elbow_flex": 13.8,
+        "wrist_flex": -62.67,
+        "wrist_roll": -0.53,
+        "gripper": 72.86
+      },
+      "bottom_last": {
+        "shoulder_pan": -37.71,
+        "shoulder_lift": 39.99,
+        "elbow_flex": 13.8,
+        "wrist_flex": -62.67,
+        "wrist_roll": -0.53,
+        "gripper": 72.86
+      }
+    },
+    "handoff": {
+      "shoulder_pan": 1.58,
+      "shoulder_lift": 0.18,
+      "elbow_flex": -0.79,
+      "wrist_flex": -15.29,
+      "wrist_roll": 28.56,
+      "gripper": -1.67
+    },
+    "gripper": {
+      "open": 82.62,
+      "grip": -42.1
+    }
+  },
+  "arm2": {
+    "start": {
+      "shoulder_pan": -18.02,
+      "shoulder_lift": -100.55,
+      "elbow_flex": 83.06,
+      "wrist_flex": 77.34,
+      "wrist_roll": -2.29,
+      "gripper": -56.43
+    },
+    "receive": {
+      "shoulder_pan": -19.25,
+      "shoulder_lift": 2.99,
+      "elbow_flex": -4.04,
+      "wrist_flex": 21.01,
+      "wrist_roll": -29.53,
+      "gripper": 72.77
+    },
+    "final": {
+      "shoulder_pan": 64.78,
+      "shoulder_lift": 35.6,
+      "elbow_flex": -66.62,
+      "wrist_flex": 20.3,
+      "wrist_roll": 0.7,
+      "gripper": -55.55
+    },
+    "gripper": {
+      "open": 54.76,
+      "grip": -57.04
+    }
+  }
+}
